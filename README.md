@@ -21,6 +21,10 @@ The following **required** functionality is completed:
 
 Here’s a demo of the app in action:
 
+![Change My Background Demo](https://i.imgur.com/rZz8R9h.gif)
+
+<img src="https://i.imgur.com/R80KNfJ.gif" width="100%">
+
 <img src="https://i.imgur.com/6Zvf1k2.gif" width="100%" title="Change My Background Demo">
 
 GIF created with Kap
