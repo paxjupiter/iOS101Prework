@@ -21,18 +21,36 @@ The following **required** functionality is completed:
 
 Here’s a demo of the app in action:
 
-[img]https://i.imgur.com/R80KNfJ.gif[/img]
+<div>
+    <a href="https://www.loom.com/share/44da7b62cfec4359bd7f0bd0edfc4322">
+    </a>
+    <a href="https://www.loom.com/share/44da7b62cfec4359bd7f0bd0edfc4322">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/44da7b62cfec4359bd7f0bd0edfc4322-cc6eff58a8678c9c-full-play.gif">
+    </a>
+  </div>
 
-GIF created with Kap
+Video created with Loom
 
 ---
 
 ## App Brainstorming (Step 4)
 
-- Additional potential features:
-  - Add multiple buttons for different background colors.
-  - Include animations for smoother transitions between color changes.
-  - Allow users to select their own custom colors via a color picker.
+My top 3 apps are: 
+
+- Reddit
+  - Wide variety of content
+  - Intuitive UI  
+- Instagram
+  - Social aspect
+  - Ability to edit photo and video content within the app
+- Collectr
+  - Fills a niche need to know trading card values
+  - Tracks values of cards added to my collection almost like a stock portfolio
+  - Can hold a massive amount of user data - I have scanned over 5.6k cards
+
+My App Idea:
+
+I have already started developing this for Android, but I see a need for a unit converter specifically for travellers that provides a quick and easy way to convert money, temperature, and distance. The goal is to have a slick, clean user interface that can be accessed quickly and offline. I plan to implement a button that allows the user to update the exchange rate before getting on the plane, which allows them to use the app offline if they should lose cell service. 
 
 ---
 
