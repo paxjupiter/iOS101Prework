@@ -21,6 +21,8 @@ The following **required** functionality is completed:
 
 Here’s a demo of the app in action:
 
+![](https://i.imgur.com/R80KNfJ.gif)
+
 <div>
     <a href="https://www.loom.com/share/44da7b62cfec4359bd7f0bd0edfc4322">
     </a>
